@@ -9,7 +9,9 @@
    "adapter_sha256": "36dcb946201a2e939ef1a807e1c4641a9f95035275f2deca316f7e412681d11b",
    "probe_weights_sha256": "916263123caf42aff1aec99d944b31b1c05c1d0bfcfd81d3cdf3dec1edaa15d0"
   },
-  "dataset_sha256": "56c67f440ab662f4118a00b6a0cc729475fc84de8adca07a7fcae4aec50ce498"
+  "dataset_sha256": "56c67f440ab662f4118a00b6a0cc729475fc84de8adca07a7fcae4aec50ce498",
+  "released_dataset_sha256": "2c1b23fe33a59d68acacb0bc53362c17ad9a0c43ae9e4666d736bf2b362e8b0d",
+  "dataset_note": "dataset_sha256 is the run-time serialization; prompts are byte-identical to the released data/banking_fairness_256.jsonl (released_dataset_sha256), which uses a different JSON canonicalization."
  },
  "metrics": {
   "n": 256,

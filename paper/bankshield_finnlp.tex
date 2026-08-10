@@ -223,7 +223,7 @@ PromptGuard-2 & 9.1 & 6.1 & 3.0 \\
 \label{tab:outputsafety}
 \end{table}
 
-Table~\ref{tab:outputsafety} is the mirror image of Table~\ref{tab:banking}, reported as-is: BankShield's blanket strictness (fourth of six on paired accuracy) is a tunable policy choice (\S\ref{sec:policyflex}) but a genuine calibration cost here. One category resists the whole field: on mishandling a distressed customer, NemoGuard, AWS, and PromptGuard score \emph{zero} and Llama Guard 4 only 2/11---a gap with real stakes that is nearly absent from current tooling (per-category detail, Appendix~\ref{app:outsafety}).
+Table~\ref{tab:outputsafety} is the mirror image of Table~\ref{tab:banking}, reported as-is: BankShield's blanket strictness (fourth of six on paired accuracy) is a tunable policy choice (\S\ref{sec:policyflex}) but a genuine calibration cost here. One category resists the whole field: on mishandling a distressed customer, NemoGuard, AWS, and PromptGuard score \emph{zero} and Llama Guard 4 only 2/11---a capability nearly absent from current tooling, with real stakes (per-category detail, Appendix~\ref{app:outsafety}).
 
 \paragraph{Guardrail competence is domain-specific.} Tables~\ref{tab:banking} and \ref{tab:outputsafety} together make a point neither makes alone: on coded banking discrimination the general models are near-blind and the domain-tuned guard competitive, while on generic output-safety those models are well-calibrated and the domain-tuned guard over-blocks. Competence does not transfer, and neither ``general safety LLM'' nor ``domain-specialized guard'' dominates.
 
