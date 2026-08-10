@@ -1,0 +1,27 @@
+Third-party components — licenses and attribution
+==================================================
+
+Public benchmarks used/redistributed (derived, decontaminated subsets):
+  - XSTest .................. CC BY 4.0
+  - Banking-77 ............. CC BY 4.0
+  - BharatBBQ .............. MIT
+  - Telugu hate-speech ..... CC BY 4.0
+  - Tamil hate-speech ...... Apache-2.0
+  - Davidson hate-speech ... MIT
+  - HarmBench .............. MIT
+  - HH-RLHF ................ MIT
+  - ToxicChat .............. (LMSYS; research use per source terms)
+  - OR-Bench ............... per source terms
+  - JailbreakBench ......... MIT
+  - PolyGuard .............. per source terms
+Derived subsets are redistributed under each source's license; original attribution is retained.
+
+Models referenced/invoked by the rival adapters (reference code):
+  - google/gemma-4-12B-it, google/gemma-3-4b-it .... Apache-2.0
+  - meta-llama/Llama-Guard-3-8B, Llama-Guard-4-12B, PromptGuard-2 .... Llama Community License
+  - allenai/wildguard .... Apache-2.0
+  - ToxicityPrompts/PolyGuard, Qwen/Qwen3Guard ..... per model-card licenses
+  - l3cube-pune/IndicGuard ......................... per model-card license
+  - intfloat/multilingual-e5-base .................. MIT
+
+Each third-party artifact is subject to its own license; this package does not relicense them.

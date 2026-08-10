@@ -1,0 +1,25 @@
+# Fairness evaluation release (output-mode the fairness table (Table 5))
+
+Reproduces BankShield's Table 5 fairness metrics with no GPU or model download.
+
+    python3 reproduce_table6.py
+    # -> catch 66.7 / over-flag 4.9 / flip 0.0  -> REPRODUCED
+
+## Contents
+- `discrimination_probe.json`  output-side discrimination probe (logistic regression on
+  768-dim multilingual-e5-base embeddings) + decision threshold 0.70.
+- `score_with_probe.py`        applies the probe to an embedding (guard-scoring stage).
+- `catch_action_detail.json`   per-item output-side action (BLOCK/ROUTE/ALLOW) + text SHA-256 for the 123 biased items (deployed service, output mode, thr 0.70); reproduce_table6.py audits it: 82 block / 0 route, block-only catch = 66.7%.
+- `policy_config.json`          disclosable decision configuration (direction, 0.70 threshold, decision rule).
+- `catch_ours_out.json`        123 biased items with output-mode verdicts (catch = 82/123).
+- `release_benign_output.json` 185 benign identity-mention items, output-mode decisions (over-flag = 9/185).
+- `release_minpairs_output.json` 560 minimal-pair items / 160 sets, output-mode decisions (flip = 0/160).
+- `expected_metrics.json`      the reported values + Wilson CIs + McNemar p-values.
+- `ENVIRONMENT.txt`            library and model versions.
+- `reproduce_table6.py`        recomputes all three metrics from the logs above.
+
+## Scope
+These artifacts make the guard-scoring stage reproducible from the released per-item
+predictions. End-to-end regeneration of predictions additionally requires the proprietary
+LoRA adapter weights and production policy rules, withheld pending the workshop
+commercial/security exception (request pending with organizers). The base model (google/gemma-4-12B-it) is public.

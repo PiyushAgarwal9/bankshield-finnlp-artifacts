@@ -1,0 +1,12 @@
+Copyright (c) 2026, the BankShield authors (anonymized for review).
+
+The authors' released artifacts in this package -- the evaluation code (harness/, external_panel/,
+annotation/ analysis scripts), the two banking benchmarks (data/banking_fairness_256.jsonl,
+data/output_safety_66pairs.jsonl), the fairness minimal-pair material, and the per-item evaluation
+logs (results/) -- are licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+BankShield's model weights and production rule sets are NOT included and are not licensed here
+(withheld: deployed financial guard under RBI/DPDP constraints).
+
+Third-party benchmarks and models redistributed or referenced retain their own licenses; see NOTICE.

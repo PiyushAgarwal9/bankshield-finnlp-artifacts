@@ -1,0 +1,962 @@
+[
+ {
+  "id": "it002",
+  "benchmark_row_index": 2,
+  "text_sha256": "7d4865b9c5bbce5347b30691552e7667b51143b7275f61883936f1836018479b",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it004",
+  "benchmark_row_index": 4,
+  "text_sha256": "7ccb3d356211a9ffa33c511f6443f05496551d03b27cfddc1a3a1ea7c45facbf",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it008",
+  "benchmark_row_index": 8,
+  "text_sha256": "53622dddaa6311d2bce5b2be1e7509c830268553e4c32a8c7b1d89814879c62f",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it010",
+  "benchmark_row_index": 10,
+  "text_sha256": "7fb784fb7b492ba1b1612611b7d280380df18574bc2979ddf509292268e48fe4",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it014",
+  "benchmark_row_index": 14,
+  "text_sha256": "a41f8e7d10302120d7dc32555f70aafa766e1d14d9c19ffdc01ae6104ce733e1",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it016",
+  "benchmark_row_index": 16,
+  "text_sha256": "ac9518a379647892d4dec2dbd6ac2ed7278039eaf2a6b0bf152819651a598661",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it019",
+  "benchmark_row_index": 19,
+  "text_sha256": "ab2bd944186c2df62864233e525fe4d3c287994462eb3452b3d99df3dc34e694",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it021",
+  "benchmark_row_index": 21,
+  "text_sha256": "8d078130a63eda78b1cc17fbb2baee8ab318255df63ad6280d4ec91e00599c87",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it027",
+  "benchmark_row_index": 27,
+  "text_sha256": "3b61163e3218327f19f6a6bcb6b7361a151e409766ec8c2a5b607b074f22b8a0",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it029",
+  "benchmark_row_index": 29,
+  "text_sha256": "49c4df8ec44ccc761ff207e2bca8c29246d35e3b4c456eccd304404c1c4c571a",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it034",
+  "benchmark_row_index": 34,
+  "text_sha256": "fc98876fe5aa301d0ac0a7fcd2b824c87f04fb7cd08f9be0cf3eb6486cdb73cf",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it036",
+  "benchmark_row_index": 36,
+  "text_sha256": "74a3530f786168990219c1ef09f47681ddb2d0c5993e1b72ad3f6136ad26dcba",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it037",
+  "benchmark_row_index": 37,
+  "text_sha256": "ca2e6cf67e400c48de17216e8e0c687de8e92fa0376617cb51146b537d74ba8d",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it040",
+  "benchmark_row_index": 40,
+  "text_sha256": "98997e5d60323c9b01695bfd727e0c1f112d9a2812b49331ff71449cf85e492b",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it042",
+  "benchmark_row_index": 42,
+  "text_sha256": "846d98e1abb3246c504668f94ea83fad2d557f7cab38f004168a2a62c412a2b1",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it047",
+  "benchmark_row_index": 47,
+  "text_sha256": "94bb7ee4fa862579a942e3e781d939cdc82edac373f86ace2e56b51380cc1758",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it050",
+  "benchmark_row_index": 50,
+  "text_sha256": "25016924d6b7b241e0628a4bf821216385086875bdf5eb1647211e54a668de1e",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it055",
+  "benchmark_row_index": 55,
+  "text_sha256": "bd76f2d427c831d37da03480712cbaae9de2727158afdbc911d33f9029c9b0f6",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it059",
+  "benchmark_row_index": 59,
+  "text_sha256": "f9eca599083aab2c0137f4832edf44d8137c89ae45eb73ddeffdf874b8bf8078",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it061",
+  "benchmark_row_index": 61,
+  "text_sha256": "b9b126c524a2b9a8c492589e469d2bcd72222b3a978d483f16464e71f672d9aa",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it064",
+  "benchmark_row_index": 64,
+  "text_sha256": "b36efa0921408874d529f5d2d098c5bd96d176ab59c4a32ec4ec5bd35573b6fc",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it065",
+  "benchmark_row_index": 65,
+  "text_sha256": "1f43ef9bf07667076f021c218b7b556c53b95069f6eeed336f92e47c765fdb93",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it068",
+  "benchmark_row_index": 68,
+  "text_sha256": "ca231bd6dd14ddea7c3d9dbda532f54ca18d5bf710e15d85896abc809cabef3f",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it073",
+  "benchmark_row_index": 73,
+  "text_sha256": "cb51cd4f5e91254d6050c8c0f373c3cdbbe8fdb215b4efae4d19447b1aa9b6ab",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it079",
+  "benchmark_row_index": 79,
+  "text_sha256": "f1c36d56e46027cdc63d256c06eaf8cbb68a314952d0f4dbd5dd1389f8af8eec",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it080",
+  "benchmark_row_index": 80,
+  "text_sha256": "92d187cd548b5e926625d8f75c7e8def58e4459e80e2fb5d21affdf8ec965ef6",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it081",
+  "benchmark_row_index": 81,
+  "text_sha256": "d57b2cffde961212b895f82bdd5c31c506fdb4aebfbfbd1faa32101e83c5176c",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it085",
+  "benchmark_row_index": 85,
+  "text_sha256": "74211d0bff962cf66fff014a2f7fdab789593165fb90a73fa256d57b500ff8a3",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it089",
+  "benchmark_row_index": 89,
+  "text_sha256": "3f2b697b1a7a101d963d0dd91acf7ee99481305ab6e85efe86d7f05734d04177",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it095",
+  "benchmark_row_index": 95,
+  "text_sha256": "1cf031645aed6cdd29dabe5f8c1a65addd591dabef224378889ee507cabaa3c2",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it096",
+  "benchmark_row_index": 96,
+  "text_sha256": "abf1f801608669e191a3da527ecb1f6b0a2e7509947553d3cb2a87d19be6574f",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it098",
+  "benchmark_row_index": 98,
+  "text_sha256": "f96ce4e956aae5491f8a49cd571ed588294357d29c2ec2a52cabaed29d2aaae5",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it100",
+  "benchmark_row_index": 100,
+  "text_sha256": "3b7d674cd4cbd364678bfe2fa929f4143feaf4194d47cbc59bbcd6b3c660d3bf",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it102",
+  "benchmark_row_index": 102,
+  "text_sha256": "e4826b0fd9226c192c5a2ca95d2274f7db418189fb4df401fad33b358f6d7b62",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it104",
+  "benchmark_row_index": 104,
+  "text_sha256": "4e571df0856a9e9cc91d89e1ca6a56e726059aa40da1fbf9a356d1eacffdb3e0",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it106",
+  "benchmark_row_index": 106,
+  "text_sha256": "ccc7dd9caf96a8c1f9034dcbacc3c5d44d46e8aaf1f346c0c39b8a4926eb1fae",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it109",
+  "benchmark_row_index": 109,
+  "text_sha256": "c67f481a9b4f3322c06da13383efb4dcfc41623f547c3d67cba6c7cfbc6d9aba",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it111",
+  "benchmark_row_index": 111,
+  "text_sha256": "e90ec0197fa8c6778869c3034d30fcee9c03196b68ea94a528f64dc51ece4d03",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it112",
+  "benchmark_row_index": 112,
+  "text_sha256": "d3940b6eede536b05d3d4ebccaa974c926d3a33aab10d04439a7c41715082264",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it114",
+  "benchmark_row_index": 114,
+  "text_sha256": "b5b94eee40c3a44748ef91c4895d72d2ce808e7e76b4277c6b3723842a44b44b",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it115",
+  "benchmark_row_index": 115,
+  "text_sha256": "1396dcbed99051a143c8dd9a7377c520c975d37a7d1d32161fa6e25ee0bfbeaa",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it116",
+  "benchmark_row_index": 116,
+  "text_sha256": "018ee174a7115d9a7bf60a496b368675f008cddf6e361868de8cfacff8cf4049",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it117",
+  "benchmark_row_index": 117,
+  "text_sha256": "c774f87ac35b1a2a5ce2875a7a39c120f2f63afd7751eaeee04665c781c9b851",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it119",
+  "benchmark_row_index": 119,
+  "text_sha256": "51e398a1e2d5a080b52ff0eb17740c6d0f601fc02b813ccf2743589a3481e4c4",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it120",
+  "benchmark_row_index": 120,
+  "text_sha256": "ab7a7371747b862c5bf7a319c34573ab6b0da5d9692eaa7801a4d384972fea93",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it123",
+  "benchmark_row_index": 123,
+  "text_sha256": "1fe4a96785a86087d5d4a4450b989003dc1af19b45e516aaec59145d9edc4ef1",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it124",
+  "benchmark_row_index": 124,
+  "text_sha256": "24aceb59389187362c7f3bab67b96d85420474216c83463b5c9eea5b4ed08ac4",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it125",
+  "benchmark_row_index": 125,
+  "text_sha256": "774ed5035a03c007bed8339060412cf418feb86f6e81220c2ea5ec73cd2b48d2",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it126",
+  "benchmark_row_index": 126,
+  "text_sha256": "086919781721dee0440e499eeb227aa1a05a5eca499a819523dc6b7c8c22fa97",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it127",
+  "benchmark_row_index": 127,
+  "text_sha256": "f1fb033e22c3cef3eb6608a8fb62a82c0d10ec69d9072e56c78b8f7fa5c7ff08",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it128",
+  "benchmark_row_index": 128,
+  "text_sha256": "4aa3b6afca97f28d8a62ab249ab8234da09a655267e082a0a977d293162a4e4b",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it129",
+  "benchmark_row_index": 129,
+  "text_sha256": "6c333a0504538c53effaba97abe0fe450130d1c80924203228a821e5043ab7d8",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it130",
+  "benchmark_row_index": 130,
+  "text_sha256": "1abd4c68def0e5a0b89bc2d09474ee31ff4f39270d202a65d570e0d8e8c8f188",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it131",
+  "benchmark_row_index": 131,
+  "text_sha256": "0e016ae2853885151af784147e7329476e344cf5e041efd97a7c342e170329a4",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it133",
+  "benchmark_row_index": 133,
+  "text_sha256": "0c1755ab1860385176b52954d54bedfee9464882f528c0b4470cf5d49775d6b9",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it135",
+  "benchmark_row_index": 135,
+  "text_sha256": "8af89d3cbb6eafd235e17c056d08de6ddf4b81eea71f9d9963b496119635f8b0",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it138",
+  "benchmark_row_index": 138,
+  "text_sha256": "ae6a36a93fb1ce0438d272d762f6975f91f7a531edfa47afedf5697f49692a09",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it140",
+  "benchmark_row_index": 140,
+  "text_sha256": "53ad6ab8881206ede98f1539ddbffe891858168e739768c988839af694569853",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it142",
+  "benchmark_row_index": 142,
+  "text_sha256": "9bafe149a069c1190bebf2596b8522cd6a54f5b24eec727e8d056a03a059cb80",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it143",
+  "benchmark_row_index": 143,
+  "text_sha256": "16650dcaa9f86d4043fca2efb77e79c4f807be59aecb0f1c2e19ffe3786f5ec4",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Legitimate"
+ },
+ {
+  "id": "it146",
+  "benchmark_row_index": 146,
+  "text_sha256": "a6e2c3309863a8cf27947c1d23bfd52753ba22ea3b0d1bafb54fcd20c0e9a8cd",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it147",
+  "benchmark_row_index": 147,
+  "text_sha256": "26be15d2f95d2633756a7c3d0d2ecee98ad35c08545edfd047587ee1e61e8ed8",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Legitimate"
+ },
+ {
+  "id": "it150",
+  "benchmark_row_index": 150,
+  "text_sha256": "8b588fe0035026f3d62c3c4555a556df85f2b16cb156d84b3c86d1230a45ff9e",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it152",
+  "benchmark_row_index": 152,
+  "text_sha256": "4f839d64850d1e9ffdccacfea0ad7d540fa2b3a04cdd45e780cb12477a3ed0b4",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it154",
+  "benchmark_row_index": 154,
+  "text_sha256": "c36ddc636883b00f74e0efb8e6fc029f497ec1172e379f28199b8d77488c22e4",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it155",
+  "benchmark_row_index": 155,
+  "text_sha256": "0ccbc31cb7e05ba91394f624b32f29e87e5ed5f51acc3afb8780e7d1953ffe2c",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Legitimate"
+ },
+ {
+  "id": "it156",
+  "benchmark_row_index": 156,
+  "text_sha256": "9ab0e88b64e2c0a032b1fc0fc572e027c123aa0746887d55a2191e9a71bfc755",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it158",
+  "benchmark_row_index": 158,
+  "text_sha256": "78e5dedac2e9142ecfdc3926a9fd06b84d8a922c6c72de1d3dc3e4c1b51b43ae",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it161",
+  "benchmark_row_index": 161,
+  "text_sha256": "c31f90fed4b6e34327a17d59e189c265932d046b893ea5f76c1d2c0adbea1c43",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it162",
+  "benchmark_row_index": 162,
+  "text_sha256": "5d2741a3591cf34c3f4a043ec1dd03a4381735a70edf7cf017b4bc1e87d90286",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": null
+ },
+ {
+  "id": "it165",
+  "benchmark_row_index": 165,
+  "text_sha256": "335a13112bd633aedfef77545347829810d1ec3d18076293d8d0a790b75eafd5",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": null
+ },
+ {
+  "id": "it167",
+  "benchmark_row_index": 167,
+  "text_sha256": "3039541c08c0c29380a1693dde41462f3f08adba6d2a895b8b3d480315bbf393",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it168",
+  "benchmark_row_index": 168,
+  "text_sha256": "56febac6a10d8970da38cbc088f0a564bac2151655ece850156458724b4d2f62",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": null
+ },
+ {
+  "id": "it171",
+  "benchmark_row_index": 171,
+  "text_sha256": "bc23235f1c61b27310fa08ff8a2a6e63ff1f93a3bbdbe4ffd10dfe8f547557a2",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it172",
+  "benchmark_row_index": 172,
+  "text_sha256": "e90fffd203170a28dd6ce985c5610f532ffb2c789120f590e05bc6449592d40b",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": null
+ },
+ {
+  "id": "it173",
+  "benchmark_row_index": 173,
+  "text_sha256": "605410bc95fec26a2cf5c6a316892c2faa169a39ba9651e67af8dd38a498a14b",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it175",
+  "benchmark_row_index": 175,
+  "text_sha256": "00d0c5a67c0de8a8bea01ddd3b9d38ee0f99a0e8bc9a2f93c4c35823eddb623a",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it176",
+  "benchmark_row_index": 176,
+  "text_sha256": "89c4c0bba3065ab8735c4538ec1c67c1658e663dfc1b444d65bf78cf5eb5ab34",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it178",
+  "benchmark_row_index": 178,
+  "text_sha256": "b11f057d0dba6e7538fdc294d12728234f00dc15aa6afeaf81e99dc3cf0af6cc",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it181",
+  "benchmark_row_index": 181,
+  "text_sha256": "d65306e51416f360ce2d9f5e87e5b40fbf5632a0901ef6c6977bc563d8bc8ee9",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it182",
+  "benchmark_row_index": 182,
+  "text_sha256": "aaaacd302809eb27abf34dc6293b8c09fb81fc2eb49de8da26bdc8f2c0ce533b",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it184",
+  "benchmark_row_index": 184,
+  "text_sha256": "090deb06cc5fd15913c28bfeff44097d1d0fa6a4191047a8aad95ecf403c4d80",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it187",
+  "benchmark_row_index": 187,
+  "text_sha256": "c12d2b84f14503a197f674d968a29975243db28b2f8f3a947d31b39df78eb90a",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it188",
+  "benchmark_row_index": 188,
+  "text_sha256": "2567f6d381e4ccdedf18a7c015b9926de4ad1bfe8046d6a260a430206d8410b1",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it189",
+  "benchmark_row_index": 189,
+  "text_sha256": "2c151d571ada96037e37247e49bbce7b68dec861d379db1aadbe6be6d5dac259",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it190",
+  "benchmark_row_index": 190,
+  "text_sha256": "5c0f005f6b46f70e4cf0c2c23e4f2b6618cff8c382a06bc65a9d1b527511a222",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it192",
+  "benchmark_row_index": 192,
+  "text_sha256": "02f0f403e304c435a8d78b4a92d662a838df85e7e65296e07a279bdb2995091c",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it193",
+  "benchmark_row_index": 193,
+  "text_sha256": "c31abc576c7a340cd79c7700553580428ccd0ce989d280ca9cb0cd89fe190139",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Legitimate"
+ },
+ {
+  "id": "it194",
+  "benchmark_row_index": 194,
+  "text_sha256": "d8d491c34e4489f711c15fe0d4d5215c5402a9884566cde2f5424b49b7478816",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it197",
+  "benchmark_row_index": 197,
+  "text_sha256": "6486017155460a8e83bf49459ba2e420620edb9d3c5237d05b8cb8f7d7b6e1c7",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it198",
+  "benchmark_row_index": 198,
+  "text_sha256": "a2426b2500ceb693b722792fb997a9169cfd81cc8fdd582ffeeabcd05ccd695d",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it200",
+  "benchmark_row_index": 200,
+  "text_sha256": "04a658e9118e64f76411e5731584b3fdf89ad48f557a88039c7257f109502f6f",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it202",
+  "benchmark_row_index": 202,
+  "text_sha256": "888bc1dc657a879fc81996fe565c99223454fb26118dcc21cf1df5541d645a47",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it204",
+  "benchmark_row_index": 204,
+  "text_sha256": "fc2010015a0a7ce107d37067061f20302e71e2fb830287aa05f1e05959da4f4d",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it208",
+  "benchmark_row_index": 208,
+  "text_sha256": "9c017cde1401b6ca7f3df693a38ce5cc6d1b5a1e3be4acc3fd1ae002b15485db",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it209",
+  "benchmark_row_index": 209,
+  "text_sha256": "ff142ee85752a96f5b0b88fcf703700353a1cd7da6f4873902e00c4e1b1002d4",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": null
+ },
+ {
+  "id": "it214",
+  "benchmark_row_index": 214,
+  "text_sha256": "c7e7bc26e87da55e8b39af45cd253058f4d52adf43481a869936a41c7b583fbb",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it216",
+  "benchmark_row_index": 216,
+  "text_sha256": "241be94084bbd893ad11908787ff3dd728ab3bb8829cd60083bc1aabd6997cbb",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": null
+ },
+ {
+  "id": "it218",
+  "benchmark_row_index": 218,
+  "text_sha256": "56805ebfcffe23776abf7b2fa759a7075c4285de230db64cc4c1db3a1a5101a1",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it220",
+  "benchmark_row_index": 220,
+  "text_sha256": "0a5687af31959deacbd21ca3ff31cd88ec6fa44be73e9c1d791eaca06265f220",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it222",
+  "benchmark_row_index": 222,
+  "text_sha256": "fc44648bb1a60a3f9997170442e0d891f95855b97c6466ff7f12b7a2306237a6",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it224",
+  "benchmark_row_index": 224,
+  "text_sha256": "fcfcc2aef179e109f05911856d46b8955f583c419d5cc970f803a0468e8f9329",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it226",
+  "benchmark_row_index": 226,
+  "text_sha256": "69a349bb276c34f80e0644b7d7e262ed2f1329e85a3f5ff9d09eb6dbcd08ff24",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it228",
+  "benchmark_row_index": 228,
+  "text_sha256": "727e6d2521651301042a00959ce1664fb3e51a1dc7f873c3ec6789626106a7fd",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it230",
+  "benchmark_row_index": 230,
+  "text_sha256": "81983b1ac42830e5b781457d7129eb57d2ba2db64a90ce87cbfb948555eafbec",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it231",
+  "benchmark_row_index": 231,
+  "text_sha256": "5c5d6907011448bc0c944c10b488cdb70d5aced5e2db76b3ab7f3eca701ffe5e",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": null
+ },
+ {
+  "id": "it232",
+  "benchmark_row_index": 232,
+  "text_sha256": "c6583ae6cf436722de9f7b2a535bd6a4a268e2ac970feedbda3648d43b93144e",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it234",
+  "benchmark_row_index": 234,
+  "text_sha256": "d72f93448e324754274205553cfa8d9d0edf7138fc8121773183a2f25195e4db",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it235",
+  "benchmark_row_index": 235,
+  "text_sha256": "12268b22895a98f1e2e510af6c8fe588d8743b14f8f7473b3ed246d9f07e6ffa",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it238",
+  "benchmark_row_index": 238,
+  "text_sha256": "d1723bf093117628c209b8a9ebe230bb4c4381d30cadcf1ea4a0194e74f7c7d3",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it240",
+  "benchmark_row_index": 240,
+  "text_sha256": "9b95bfa93bd7fe7c8253da5ec4a0a344e0b66fe2fb1dcfd198c86f59cd3681bb",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it241",
+  "benchmark_row_index": 241,
+  "text_sha256": "4ff7600703d98ce29b355da146a956feffc2a519eb96171382021453253f747d",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it242",
+  "benchmark_row_index": 242,
+  "text_sha256": "171c4983322ee3c09ce5cd8921ccc5998bd09ef1261c9bfbf602749bef70db32",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it243",
+  "benchmark_row_index": 243,
+  "text_sha256": "1d48b3d950303a9096e3afaa191d33f39ea50a097b4c2187e3bec8f3cfa95297",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": null
+ },
+ {
+  "id": "it246",
+  "benchmark_row_index": 246,
+  "text_sha256": "f66a52ae873ec8e936044bff5ee387e52b1e35a7218399d12d4747ac13ad0b3f",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it248",
+  "benchmark_row_index": 248,
+  "text_sha256": "d771d5a55dda172fd7d416343e73305bd7cb69b4fee10706c725f80540929d88",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it250",
+  "benchmark_row_index": 250,
+  "text_sha256": "880bc1714e9e26d12700b8aed6c55d0ad2184ae1515426c45a43d8cf70737b2f",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it252",
+  "benchmark_row_index": 252,
+  "text_sha256": "ed6283ce04404d8c633b5a17cfcd7eb9ed8606232e70afdba99fca240623a246",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Discriminatory",
+  "initial_reviewer": "Discriminatory"
+ },
+ {
+  "id": "it253",
+  "benchmark_row_index": 253,
+  "text_sha256": "0788aa74c359d767e0b2fdb1e746ffb1aaf72c43fb6a0f334d51527cd74e879e",
+  "our_label": "Legitimate adverse decision",
+  "reviewer_clarified": "Unsure",
+  "initial_reviewer": null
+ },
+ {
+  "id": "it254",
+  "benchmark_row_index": 254,
+  "text_sha256": "291c3bdfead9710a1224de4015ed1843d6c7dddd94878a83c34ca890d321b0fd",
+  "our_label": "Discriminatory",
+  "reviewer_clarified": "Legitimate",
+  "initial_reviewer": null
+ }
+]

@@ -1,0 +1,15 @@
+# Reproducing the paper's tables (all analyzers under harness/, external_panel/, annotation/)
+# requires only the Python 3.8+ standard library. No third-party packages are needed.
+
+# The rival-guard adapters in harness/wrappers/ and external_panel/rivals_l40.py are reference code
+# for re-running the open-weight competitors on a GPU; they additionally require:
+# torch>=2.5
+# transformers>=4.46
+# accelerate
+# bitsandbytes
+# peft
+# sentencepiece
+
+# Optional: only for the coded-tier form<->JSON cross-check in
+# external_validation/coded_tier/score_coded_validation.py (skipped gracefully if absent).
+# openpyxl>=3.0

@@ -1,0 +1,14 @@
+{
+  "table6_bankshield_output_mode": {
+    "catch_biased":   {"value_pct": 66.7, "count": "82/123",  "wilson95": [57.9, 74.4]},
+    "over_flag":      {"value_pct": 4.9,  "count": "9/185",   "wilson95": [2.6, 9.0], "note": "block-only, output mode; 5.4% counting routing (10/185)"},
+    "flip":           {"value_pct": 0.0,  "count": "0/160",   "wilson95": [0.0, 2.3], "note": "0 benign minimal-pair sets change verdict; engagement = 0/160"}
+  },
+  "significance": {
+    "catch_vs_indic":       {"bankshield_pct": 66.7, "indic_pct": 56.9, "mcnemar_p": 0.09, "verdict": "not significant"},
+    "flip_indic_vs_bank":   {"mcnemar_p": 9e-10},
+    "flip_base_vs_bank":    {"mcnemar_p": 6e-8},
+    "flip_12b_vs_bank":     {"mcnemar_p": 0.25}
+  },
+  "reproduces_from": "catch_ours_out.json (catch), release_benign_output.json (over-flag), release_minpairs_output.json (flip)"
+}

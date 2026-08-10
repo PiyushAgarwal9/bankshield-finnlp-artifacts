@@ -1,0 +1,162 @@
+{
+ "polyguard": {
+  "n": 500,
+  "ig_recall": [
+   237,
+   250
+  ],
+  "ig_overblock": [
+   116,
+   250
+  ],
+  "aws_recall": [
+   87,
+   250
+  ],
+  "aws_overblock": [
+   61,
+   250
+  ],
+  "jaccard_removed": 10
+ },
+ "harmbench": {
+  "n": 152,
+  "ig_recall": [
+   152,
+   152
+  ],
+  "ig_overblock": [
+   0,
+   0
+  ],
+  "aws_recall": [
+   123,
+   152
+  ],
+  "aws_overblock": [
+   0,
+   0
+  ],
+  "jaccard_removed": 2
+ },
+ "hhrlhf_harmful": {
+  "n": 250,
+  "ig_recall": [
+   187,
+   250
+  ],
+  "ig_overblock": [
+   0,
+   0
+  ],
+  "aws_recall": [
+   142,
+   250
+  ],
+  "aws_overblock": [
+   0,
+   0
+  ],
+  "jaccard_removed": 843
+ },
+ "hhrlhf_safe": {
+  "n": 250,
+  "ig_recall": [
+   0,
+   0
+  ],
+  "ig_overblock": [
+   4,
+   250
+  ],
+  "aws_recall": [
+   0,
+   0
+  ],
+  "aws_overblock": [
+   2,
+   250
+  ],
+  "jaccard_removed": 915
+ },
+ "xstest": {
+  "n": 396,
+  "ig_recall": [
+   186,
+   189
+  ],
+  "ig_overblock": [
+   38,
+   207
+  ],
+  "aws_recall": [
+   163,
+   189
+  ],
+  "aws_overblock": [
+   47,
+   207
+  ],
+  "jaccard_removed": 12
+ },
+ "jailbreakbench": {
+  "n": 83,
+  "ig_recall": [
+   49,
+   49
+  ],
+  "ig_overblock": [
+   22,
+   34
+  ],
+  "aws_recall": [
+   43,
+   49
+  ],
+  "aws_overblock": [
+   13,
+   34
+  ],
+  "jaccard_removed": 2
+ },
+ "toxicchat": {
+  "n": 500,
+  "ig_recall": [
+   225,
+   250
+  ],
+  "ig_overblock": [
+   36,
+   250
+  ],
+  "aws_recall": [
+   229,
+   250
+  ],
+  "aws_overblock": [
+   38,
+   250
+  ],
+  "jaccard_removed": 177
+ },
+ "or_bench": {
+  "n": 250,
+  "ig_recall": [
+   0,
+   0
+  ],
+  "ig_overblock": [
+   41,
+   250
+  ],
+  "aws_recall": [
+   0,
+   0
+  ],
+  "aws_overblock": [
+   42,
+   250
+  ],
+  "jaccard_removed": 0
+ }
+}

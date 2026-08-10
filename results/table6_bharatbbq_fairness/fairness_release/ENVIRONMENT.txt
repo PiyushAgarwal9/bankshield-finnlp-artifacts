@@ -1,0 +1,17 @@
+Guard-scoring reproduction environment
+--------------------------------------
+Base model:        google/gemma-4-12B-it  (public)
+Embedding model:   intfloat/multilingual-e5-base  (768-dim, for the discrimination probe)
+torch              2.7.0+cu126
+transformers       5.11.0
+peft               0.20.0
+scikit-learn       1.7.2
+Decision direction: output  (assistant-facing text)
+Discrimination probe threshold: 0.70
+
+Note: The released per-item prediction logs already contain the model outputs
+(decision_output, discrimination_prob). reproduce_table6.py recomputes every
+reported Table 5 metric from those logs with no GPU or model download required.
+End-to-end regeneration of predictions additionally requires the proprietary
+LoRA adapter weights and production policy rules, which are withheld under the
+workshop commercial/security exception (request pending with organizers).

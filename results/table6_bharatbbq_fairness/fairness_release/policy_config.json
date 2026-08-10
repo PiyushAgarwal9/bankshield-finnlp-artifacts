@@ -1,0 +1,7 @@
+{
+  "direction": "output",
+  "discrimination_threshold": 0.70,
+  "decision_rule": "flag if discrimination_prob >= discrimination_threshold, else allow; a flag maps to block or route per tenant policy",
+  "over_flag_counting": "block only (routing reported separately)",
+  "note": "Disclosable decision configuration for the fairness evaluation. Production policy rules (per-category thresholds, tenant overrides, lexical vetoes) are withheld pending a commercial/security exception (request pending)."
+}
