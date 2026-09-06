@@ -11,7 +11,7 @@ Discrimination probe threshold: 0.70
 
 Note: The released per-item prediction logs already contain the model outputs
 (decision_output, discrimination_prob). reproduce_table6.py recomputes every
-reported Table 5 metric from those logs with no GPU or model download required.
+reported Table 6 metric from those logs with no GPU or model download required.
 End-to-end regeneration of predictions additionally requires the proprietary
 LoRA adapter weights and production policy rules, which are withheld under the
-workshop commercial/security exception (request pending with organizers).
+workshop commercial/security exception (granted in writing by the organizers).

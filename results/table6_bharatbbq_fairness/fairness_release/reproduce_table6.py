@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reproduce BankShield's Table 5 fairness metrics (output mode) from released per-item logs.
+"""Reproduce BankShield's Table 6 fairness metrics (output mode) from released per-item logs.
 No GPU or model download required. Expected: catch 66.7 / over-flag 4.9 / flip 0.0."""
 import json, os, collections
 
@@ -31,9 +31,9 @@ flipped = sum(1 for s in sets if len(set(sets[s])) > 1)
 engaged = sum(1 for s in sets if any(v != "ALLOW" for v in sets[s]))
 flip_pct = 100 * flipped / n_sets
 
-print(f"catch     : {caught}/{n_catch}  = {catch_pct:.1f}%   (the fairness table (Table 5): 66.7)")
-print(f"over-flag : {blocked}/{n_benign} = {of_pct:.1f}%   (the fairness table (Table 5): 4.9)")
-print(f"flip      : {flipped}/{n_sets}  = {flip_pct:.1f}%   (the fairness table (Table 5): 0.0)")
+print(f"catch     : {caught}/{n_catch}  = {catch_pct:.1f}%   (Table 6: 66.7)")
+print(f"over-flag : {blocked}/{n_benign} = {of_pct:.1f}%   (Table 6: 4.9)")
+print(f"flip      : {flipped}/{n_sets}  = {flip_pct:.1f}%   (Table 6: 0.0)")
 print(f"any-flag rate on benign pairs: {engaged}/{n_sets}  (lower is better)")
 ok = round(catch_pct,1)==66.7 and round(of_pct,1)==4.9 and round(flip_pct,1)==0.0
 print("REPRODUCED" if ok else "MISMATCH")

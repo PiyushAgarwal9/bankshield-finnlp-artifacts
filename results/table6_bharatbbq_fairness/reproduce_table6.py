@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reproduce the full fairness table (Table 5, tab:fairness) from the released per-item logs.
+"""Reproduce the full fairness table (Table 6, tab:fairness) from the released per-item logs.
 Run: python3 reproduce_table6.py   (no GPU, no model)
 
 All BankShield metrics are output-mode (the discrimination probe fires); its per-item output-mode

@@ -3,7 +3,7 @@
     python3 jaccard_decontam_repro.py
 
 Reproduces, per public benchmark, how many items were removed as near-duplicates of BankShield's
-training data before the competence panel (Table 4) was scored. Runs in ~2 min on a CPU.
+training data before the competence panel (Table 5) was scored. Runs in ~2 min on a CPU.
 
 ## Why this is shippable without leaking the training corpus
 BankShield's training text is withheld (deployed financial guard, RBI/DPDP). Instead of the raw

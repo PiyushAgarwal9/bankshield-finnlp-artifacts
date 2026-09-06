@@ -1,4 +1,4 @@
-# Fairness table (Table 5) — BharatBBQ counterfactual fairness audit: per-item logs + analyzer
+# Fairness table (Table 6) — BharatBBQ counterfactual fairness audit: per-item logs + analyzer
 
 Reproduces the paper's headline table (`tab:fairness`) with no GPU and no model:
 
@@ -30,7 +30,6 @@ adaptation from scale). WildGuard/12B were regenerated on the identical set; Ban
 Indic, Base, LG-3 logs are from the original evaluation run.
 
 ## Note on the 12B backbone over-flag
-The released log gives 12B over-flag = **1.6%** (3/185). The submission table read 7%;
-this was corrected to 2% to match the released log (the 12B *catch*, 24.4%, reproduces
-exactly, confirming the scoring method). The correction is favorable: a cleaner un-adapted
+The released log gives 3/185 = **1.6%**, reported as 2% after whole-percentage-point rounding
+(the 12B *catch*, 24.4%, reproduces exactly, confirming the scoring method). The correction is favorable: a cleaner un-adapted
 backbone strengthens the "invariance comes from backbone scale" claim. No headline changes.

@@ -1,6 +1,6 @@
-# Fairness evaluation release (output-mode the fairness table (Table 5))
+# Fairness evaluation release (output-mode; the fairness table, Table 6)
 
-Reproduces BankShield's Table 5 fairness metrics with no GPU or model download.
+Reproduces BankShield's Table 6 fairness metrics with no GPU or model download.
 
     python3 reproduce_table6.py
     # -> catch 66.7 / over-flag 4.9 / flip 0.0  -> REPRODUCED
